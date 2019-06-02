@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo18.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.54115914"
+     inkscape:cx="421.10222"
+     inkscape:cy="635.75022"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g895"
+       transform="translate(27.718279,-9.2394264)">
+      <rect
+         ry="0.57004893"
+         y="283.97296"
+         x="17.084909"
+         height="568.77844"
+         width="710.97302"
+         id="rect13"
+         style="opacity:1;fill:#0c3052;fill-opacity:1;stroke:none" />
+      <path
+         id="path2996"
+         d="m 373.28125,449.90625 c -40.18602,0 -72.75,33.06235 -72.75,73.84375 0,40.7814 32.56398,73.84375 72.75,73.84375 37.04129,0 67.59755,-28.10437 72.15625,-64.4375 -3.42594,-0.72898 -9.21573,-1.39092 -15.53125,0.25 -14.15712,3.67835 -15.88757,8.65668 -24.78125,15.53125 -8.89368,6.87457 -18.3548,10.61476 -28.0625,12.5625 -9.7077,1.94774 -0.32461,-11.24673 5.75,-19.65625 4.53909,-6.28379 10.64166,-10.7111 14.15625,-14 3.51459,-3.2889 12.90625,-4.15625 12.90625,-4.15625 0,0 -12.0696,-1.94137 -21.125,-10.78125 -0.63612,-0.62098 -7.72845,-6.3828 -14.6875,-21.125 0,0 -2.08167,-5.27185 -1.03125,-5.21875 16.17466,0.8176 21.84677,6.59361 31.21875,12.78125 9.37198,6.18764 17.06776,15.06695 24.59375,16.59375 5.39751,1.09499 11.57883,0.38088 16.71875,-0.65625 -4.13657,-36.79637 -34.91494,-65.375 -72.28125,-65.375 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="matrix(1.2389428,0,0,1.2389428,-103.96139,-260.6001)"
+         id="g882">
+        <ellipse
+           style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1.27902305"
+           id="path37"
+           cx="-365.39249"
+           cy="-1009.7266"
+           rx="227.46681"
+           ry="35.060677"
+           transform="rotate(179.22343)" />
+        <text
+           transform="matrix(0.9526598,0,0,0.9526598,19.102723,-182.94518)"
+           y="-312.2926"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.92704391px;line-height:1.25;font-family:Sling;-inkscape-font-specification:'Sling, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.94817096"
+           id="text63"
+           x="271.63913"><textPath
+             xlink:href="#path37"
+             id="textPath65"><tspan
+   style="fill:#ffffff;stroke-width:0.94817096"
+   id="tspan61"><tspan
+     style="fill:#ffffff;stroke-width:0.94817096"
+     id="tspan59"
+     y="420.04901"
+     x="602.14923">     <tspan
+   id="tspan884"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.92695999px;font-family:Sling;-inkscape-font-specification:'Sling, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">EXMOUTH FISH CO</tspan>.</tspan></tspan></textPath></text>
+      </g>
+    </g>
+  </g>
+</svg>
